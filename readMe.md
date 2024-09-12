@@ -15,7 +15,7 @@ The green Triangle is the robot, the black square is home, the blue squares are 
 
 ## Contents
 
-My submission contains 5 files: main.c, setup.c, setup.h, robot.c and robot.h.
+My submission contains 5 main files: main.c, setup.c, setup.h, robot.c and robot.h.
 
 The main.c file contains the main function that runs when the program is executed. This function contains the animation of the robot and the algorithms I have used.
 
