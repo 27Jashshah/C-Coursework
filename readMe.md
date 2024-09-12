@@ -1,7 +1,7 @@
 
 # C Coursework
 
-This is my submission for the C Coursework for COMP0002. Our tasks involved coding a flawless algorithm for a robot to find the markers on a grid. I have completed up till stage 6 of the coursework.
+This is my submission for the C Coursework for COMP0002. Our tasks involved coding a flawless algorithm for a robot to find the markers on a grid.
 
 ## Introduction
 
